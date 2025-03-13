@@ -1,0 +1,15 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  
+  <circle cx="100" cy="100" r="100" fill="white" />
+  
+  
+  <text x="30" y="100" font-family="serif" font-size="110" font-weight="bold" fill="blue">V</text>
+  <text x="75" y="140" font-family="serif" font-size="130" font-weight="bold" fill="blue">Q</text>
+  
+  
+  <text x="50" y="120" font-family="serif" font-size="12" font-weight="bold" fill="black">Virtual Question Bank System</text>
+</svg>
+
+
+
+
